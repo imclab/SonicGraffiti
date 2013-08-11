@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg height="297mm" id="svg13519" inkscape:version="0.42.2" sodipodi:docbase="/media/GOT_MILK/svg" sodipodi:docname="camera.svg" sodipodi:version="0.32" width="210mm" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://inkscape.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg">
+  <metadata>
+    <rdf:RDF xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <cc:Work rdf:about="">
+        <dc:title>camera pictogram</dc:title>
+        <dc:description/>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>pictogram</rdf:li>
+            <rdf:li>camera</rdf:li>
+            <rdf:li>sign</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://www.openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>r5d</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title/>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date/>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://web.resource.org/cc/PublicDomain"/>
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+        <cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+        <cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs3"/>
+  <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer1" inkscape:cx="408.97966" inkscape:cy="527.73291" inkscape:document-units="px" inkscape:guide-bbox="true" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="968" inkscape:window-width="1280" inkscape:window-x="0" inkscape:window-y="25" inkscape:zoom="0.70710678" pagecolor="#ffffff" showguides="true"/>
+  <g id="layer1" inkscape:groupmode="layer" inkscape:label="Layer 1">
+    <path d="M 354.60567,476.18109 C 349.82462,476.18109 345.88487,480.12019 345.88487,484.90041 L 345.88487,490.71331 L 342.97795,490.71331 C 342.97795,487.54326 340.33470,484.90041 337.16410,484.90041 L 334.25717,484.90041 C 331.08657,484.90041 328.44333,487.54326 328.44333,490.71331 C 318.83097,490.71331 311.00175,498.54126 311.00175,508.15201 L 311.00175,532.40269 L 311.00175,544.48261 C 311.00175,554.09339 318.83097,561.92131 328.44333,561.92131 L 361.92750,561.92131 C 368.76410,570.58676 379.32880,576.18106 391.19662,576.18109 C 403.47070,576.18109 414.34540,570.19114 421.14707,561.01304 C 428.07360,558.70234 433.09273,552.17169 433.09273,544.48261 L 433.09273,532.40269 L 433.09273,508.15201 C 433.09273,498.54126 425.26350,490.71331 415.65115,490.71331 L 395.30265,490.71331 L 395.30265,484.90041 C 395.30265,480.12019 391.36290,476.18109 386.58187,476.18109 L 354.60567,476.18109 z M 354.60567,481.99401 L 386.58187,481.99401 C 388.24260,481.99401 389.48880,483.23996 389.48880,484.90041 L 389.48880,496.52624 L 415.65115,496.52624 C 422.14320,496.52624 427.27887,501.66106 427.27887,508.15201 L 427.27887,519.44174 C 425.31515,517.67819 422.93682,516.39409 420.32950,515.66336 C 413.48860,507.10336 402.98002,501.59434 391.19662,501.59434 C 388.52782,501.59434 385.93220,501.88541 383.42057,502.42086 C 381.11032,501.79806 378.69778,501.42176 376.18960,501.42176 C 365.94117,501.42176 356.95913,506.85134 351.89860,514.96401 L 328.44333,514.96401 C 323.97547,514.96401 319.90585,516.66649 316.81560,519.44174 L 316.81560,508.15201 C 316.81560,501.66106 321.95127,496.52624 328.44333,496.52624 L 351.69872,496.52624 L 351.69872,484.90041 C 351.69872,483.23996 352.94495,481.99401 354.60567,481.99401 z M 364.77990,487.80689 C 362.41455,487.80689 360.41952,489.80156 360.41952,492.16654 C 360.41952,494.53154 362.41455,496.52624 364.77990,496.52624 L 376.40762,496.52624 C 378.77300,496.52624 380.76802,494.53154 380.76802,492.16654 C 380.76802,489.80156 378.77300,487.80689 376.40762,487.80689 L 364.77990,487.80689 z M 376.18960,504.32821 C 376.49187,504.32821 376.78055,504.37159 377.07985,504.38274 C 363.49842,509.96189 353.89710,523.32326 353.89710,538.88771 C 353.89710,540.38411 354.00640,541.85101 354.17872,543.30189 C 351.83390,539.43209 350.46330,534.91016 350.46330,530.05029 C 350.46330,515.83589 361.97285,504.32821 376.18960,504.32821 z M 391.19662,506.30824 C 409.21022,506.30824 423.78148,520.87709 423.78148,538.88771 C 423.78145,556.89834 409.21022,571.47626 391.19662,571.47626 C 373.18302,571.47626 358.60270,556.89834 358.60270,538.88771 C 358.60270,520.87709 373.18302,506.30824 391.19662,506.30824 z M 391.19662,510.64069 C 375.61893,510.64069 362.94492,523.31259 362.94492,538.88771 C 362.94492,554.46281 375.61893,567.13476 391.19662,567.13476 C 406.77430,567.13476 419.44832,554.46281 419.44832,538.88771 C 419.44832,523.31259 406.77432,510.64069 391.19662,510.64069 z M 391.19662,513.54711 C 405.20147,513.54711 416.54140,524.88516 416.54140,538.88771 C 416.54140,539.77569 416.49412,540.64829 416.40512,541.51261 C 409.75245,535.08784 400.76072,531.07664 390.78785,531.07664 C 381.21902,531.07664 372.52222,534.75419 365.95177,540.72241 C 365.90802,540.11329 365.85185,539.50806 365.85185,538.88771 C 365.85185,524.88516 377.19175,513.54711 391.19662,513.54711 z " id="rect17472" style="fill:#000000;fill-opacity:1.0000000;fill-rule:evenodd;stroke:none;stroke-width:20.000000;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.0000000;stroke-dashoffset:0.0000000;stroke-opacity:1.0000000"/>
+  </g>
+</svg>
