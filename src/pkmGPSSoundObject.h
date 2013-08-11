@@ -114,9 +114,8 @@
 #define DEBUG 0
 #endif
 
-#define DO_3D 0
 #define MINIMUM_DISTANCE 0.0f		// meters
-#define INAUDIBLE_DISTANCE 100.0f	// meters
+#define INAUDIBLE_DISTANCE 1000.0f	// meters
 #define AMBISONIC_ORDER 1
 
 class CartesianPoint
